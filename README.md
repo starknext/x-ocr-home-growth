@@ -1,0 +1,27 @@
+# X OCR Home Growth
+
+Open Agent Skill for growing **X Original Content Rewards** toward **500,000 verified Home Timeline impressions** — without confusing Analytics views or reply farming for progress.
+
+## Why this exists
+
+Many accounts optimize for total impressions. OCR eligibility cares about a narrower metric: **verified users seeing your originals on Home**. Replies are explicitly excluded. This skill encodes a practical playbook we validated while climbing from reply-spray toward evidence-backed originals (including OCR progress posts that can reach 1k+ views quickly).
+
+## Install
+
+Copy `SKILL.md` into your agent skills folder (Cursor / Claude / compatible Agent Skills layouts), or clone this repo and point your agent at it.
+
+```bash
+git clone https://github.com/starknext/x-ocr-home-growth.git
+```
+
+## What's inside
+
+- Metric clarity: Analytics vs verified HT vs replies
+- Stop-list (spray, bait, aggregation)
+- Priority do-list and daily checklist
+- Content formulas: OCR progress, pain→fix, screenshot story, benchmark
+- Notes tied to public `x-algorithm` behavior
+
+## License
+
+MIT
