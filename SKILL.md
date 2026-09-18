@@ -96,9 +96,12 @@ Sources (X threads):
 
 Never confuse:
 - a single original's Analytics views (e.g. ~1.5K on a progress post)
+- Analytics **day total** impressions (can be ~2K while same-day originals show tens of views)
 - Rewards page **verified Home Timeline** progress toward 500,000
 
-Only the Rewards counter is the OCR goal. Update the skill/repo only when Rewards HT moves or a format repeatedly lifts original Home distribution.
+Only the Rewards counter is the OCR goal. Example (2026-09-18): Rewards HT moved ~436 → ~1.5K while same-day Content originals topped ~86 Analytics views and the day total was ~1.9K — three different numbers.
+
+Update the skill/repo only when Rewards HT moves or a format repeatedly lifts original Home distribution.
 
 ## Announcing this skill on X
 

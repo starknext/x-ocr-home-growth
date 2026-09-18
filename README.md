@@ -45,3 +45,4 @@ Prefer evidence (“this original format hit X views / moved Rewards counter”)
 - Per-post job mix (acquisition / expertise / personality) on one niche spine
 - "Remove the source" originality test + FIND→TRANSFORM publish loop
 - Content pillars (3–5) and clean-account rules for OCR eligibility
+- Evening field note: Rewards HT ~1.5K/500k (up from ~436); Analytics day ≠ HT
