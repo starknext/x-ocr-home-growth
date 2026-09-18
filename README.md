@@ -38,3 +38,10 @@ When experiments or research yield a validated tactic (what moved verified HT or
 4. Push to `main`.
 
 Prefer evidence (“this original format hit X views / moved Rewards counter”) over unverified tips.
+
+## Recent additions (2026-09-18)
+
+- Next-action optimization (dwell / profile / follow) over like-chasing
+- Per-post job mix (acquisition / expertise / personality) on one niche spine
+- "Remove the source" originality test + FIND→TRANSFORM publish loop
+- Content pillars (3–5) and clean-account rules for OCR eligibility

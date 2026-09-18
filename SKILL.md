@@ -76,6 +76,30 @@ One-line capability + proof media + who should care.
 - Originals are the main discovery path into non-follower Home; OON replies/reposts are filtered or discounted.
 - Sources: https://github.com/xai-org/x-algorithm
 
+## Additional tactics (validated from creator tutorials, 2026-09-18)
+
+1. **Optimize next actions, not likes** — dwell, image expand, profile visits, follows matter more for distribution than raw likes.
+2. **Schedule from your own audience data** — ignore generic "best time" myths and arbitrary 30-minute cutoffs.
+3. **Assign each post a job** — acquisition, expertise, or personality — while keeping one niche spine.
+4. **"Remove the source" test** — if stripping the cited source leaves nothing useful, it is not original enough for OCR.
+5. **FIND → UNDERSTAND → INTERPRET → TRANSFORM → PUBLISH** — transform information; do not copy-paste aggregates.
+6. **3–5 content pillars** — a recognizable ecosystem beats random topics.
+7. **Build in public for trust; longform/video for moat** — use longer formats when proving unique expertise.
+8. **Keep the account clean** — avoid coordinated engagement, fake interaction, and third-party "guaranteed impressions" tools that risk OCR eligibility.
+
+Sources (X threads):
+- https://x.com/wellzhiai/status/2100113166437077398
+- https://x.com/MSARTS159725/status/2098352072173162808
+- https://x.com/realWeZZard/status/2100151182224478608
+
+## Metric hygiene
+
+Never confuse:
+- a single original's Analytics views (e.g. ~1.5K on a progress post)
+- Rewards page **verified Home Timeline** progress toward 500,000
+
+Only the Rewards counter is the OCR goal. Update the skill/repo only when Rewards HT moves or a format repeatedly lifts original Home distribution.
+
 ## Announcing this skill on X
 
 Problem (OCR vs vanity views) → one concrete result → repo link → invite forks/PRs. Keep the thread dense and screen-fillable.
