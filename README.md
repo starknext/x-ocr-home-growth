@@ -25,3 +25,16 @@ git clone https://github.com/starknext/x-ocr-home-growth.git
 ## License
 
 MIT
+
+## Maintaining
+
+This repo is **living docs**, not a one-shot dump.
+
+When experiments or research yield a validated tactic (what moved verified HT or original distribution — not vanity reply views):
+
+1. Update `SKILL.md` (canonical playbook).
+2. Add a short dated entry in `CHANGELOG.md`.
+3. Adjust this README only if install/positioning changed.
+4. Push to `main`.
+
+Prefer evidence (“this original format hit X views / moved Rewards counter”) over unverified tips.
