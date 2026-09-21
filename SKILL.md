@@ -92,6 +92,19 @@ Sources (X threads):
 - https://x.com/MSARTS159725/status/2098352072173162808
 - https://x.com/realWeZZard/status/2100151182224478608
 
+## Quote vs standalone (updated 2026-09-21)
+
+- **Bare replies never count** toward verified Home Timeline / OCR 500k.
+- **Quote-posts** help discovery when posted **early on rising** targets with real incremental analysis.
+- Community signal: quotes of *already-popular* posts may carry **weak OCR/Home reward weight** — treat Quote as discovery, not the whole inventory.
+- **Self-quote** an older original only with a true delta (new thesis, new metric, new demo).
+- Daily cadence for HT climb: **1 standalone evidence original** + **at most 1 rising Quote**; keep social replies off the OCR KPI board.
+- Separate streams: discovery/social vs earnable originality.
+- Optional: one “index/landing” post bundling cases for save intent.
+- If display stays flat while effective exposure drops, rotate time or format.
+
+Sources (X, Sep 20–21): miles_mazy quote-on-rising / self-quote delta; lea_coste note on eligible ≠ total views & weak quote weight; under-the-hood / completion-rate tactics from prior digests.
+
 ## Metric hygiene
 
 Never confuse:

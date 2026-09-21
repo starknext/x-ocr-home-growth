@@ -16,3 +16,8 @@
 - Live Rewards eligibility: verified HT moved **~436 → ~1.5K / 500,000** (still ineligible / 不符合资格).
 - Same-day Analytics: day total ~1.9K impressions while Content-filtered originals topped ~86 views — reinforces that Analytics day totals ≠ Rewards HT and ≠ same-day original distribution.
 - Operator note: treat Creator Studio OCR status + Rewards progress bar as source of truth; do not infer HT from Analytics.
+
+## 2026-09-21
+
+- Clarified Quote vs standalone: rising early Quote for discovery; OCR/Home inventory primarily from standalone originals; popular-target quotes may be weak for reward weight.
+- Cadence: 1 evidence original + ≤1 rising Quote; bare replies off OCR KPI.
