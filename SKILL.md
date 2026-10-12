@@ -105,6 +105,25 @@ Sources (X threads):
 
 Sources (X, Sep 20–21): miles_mazy quote-on-rising / self-quote delta; lea_coste note on eligible ≠ total views & weak quote weight; under-the-hood / completion-rate tactics from prior digests.
 
+## Creator playbook notes (2026-10-12)
+
+Mapped for @shengguo7051 verified HT / OCR (not vanity views). Attribution: creator playbook notes (2026-10-12) — no further source claim.
+
+Quote pause still active: **independent originals only** (no quote-posts until Kevin lifts it).
+
+| # | Tip | Verdict | How we use it |
+|---|-----|---------|---------------|
+| 1 | When small, replies beat posts (50 views vs ~50k on a viral reply) | **REJECT** as OCR plan | Replies **never** count toward verified HT. Reply farming stays forbidden. Optional replies only to pull eyes back to originals; cap **≤3/day**. |
+| 2 | Long > short; posts >600 chars crush one-liners | **ADOPT** | Prefer evidence-backed longer originals when we have proof. Keep short shells only as distribution for deeper artifacts. |
+| 3 | Real dollar amounts | **ADOPT** | Put real $ / bill / cost figures in ledger and evidence posts (no invented numbers). |
+| 4 | One-liners are lottery | **ADOPT** (caution) | Prefer evidence posts over lottery shorts; do not chase viral one-liners as the plan. |
+| 5 | Do not open with a question; state | **ADOPT** | Matches lead-with-conclusion. Line 1 = claim / conflict / number. |
+| 6 | If weak in 30 min, rewrite hook and repost | **TWEAK** | 30-min check is optional diagnostic only. Delete+repost only when Kevin asks or a clear flop — avoid spam / diversity decay. |
+| 7 | People bookmark useful guides (top bookmark = annotated guide) | **ADOPT** | Bookmark-worthy > like-bait (already in this skill). Ship saveable guides / checklists with notes. |
+| 8 | Talk life more than product (kids/cabin/plane median higher) | **TWEAK** | Niche stays local Agent / long-context evidence. Light personal IP ok; do not dilute into lifestyle. Product-only posts tend to be mediocre — still lead with ops proof, not lifestyle filler. |
+
+**Core rule — stay consistent, post daily:** **ADOPT.** Cadence remains ~**1 hard original/day** (plus optional high-signal reply under the reply cap). Consistency beats spray volume.
+
 ## Metric hygiene
 
 Never confuse:
